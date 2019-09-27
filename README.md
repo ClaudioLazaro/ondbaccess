@@ -1,5 +1,5 @@
 # ondbacces
-Uma ferramenta de supore, tem como objetivo executar um ou mais &lt;scrips>.sql em ambientes informix de forma distribuída ou localmente.
+Uma ferramenta de suporte, tem como objetivo executar um ou mais &lt;scrips>.sql em ambientes informix de forma distribuída ou localmente.
 
 Prequisitos:
 Python3 
